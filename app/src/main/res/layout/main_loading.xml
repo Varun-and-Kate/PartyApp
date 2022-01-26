@@ -23,7 +23,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:fontFamily="sans-serif-condensed-medium"
-        android:text="C l i c k  a n y w h e r e  t o  c o n t i n u e . . ."
+        android:text="W e l c o m e   t o   D e s t i n a t i o n   P a r t y!"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
         android:textColor="#FFFFFF"
         android:textSize="14sp"

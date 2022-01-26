@@ -7,7 +7,6 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
-import android.widget.ImageButton;
 import android.widget.TextView;
 
 public class login_page extends AppCompatActivity {
@@ -21,7 +20,7 @@ public class login_page extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.login_page);
         loginButton = (Button) findViewById(R.id.loginButton);
-        forgotPasswordButton = (Button) findViewById(R.id.forgotPasswordButton);
+        forgotPasswordButton = (Button) findViewById(R.id.resetbutton);
 
         loginButton.setOnClickListener(new View.OnClickListener() {
             @Override

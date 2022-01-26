@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         h.postDelayed(new Runnable() {
             @Override
             public void run() {
-                Intent i = new Intent(MainActivity.this, login_page.class);
+                Intent i = new Intent(MainActivity.this, reset_password.class);
                 startActivity(i);
                 finish();
 

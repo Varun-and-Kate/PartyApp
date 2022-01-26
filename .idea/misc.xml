@@ -11,7 +11,13 @@
         <entry key="..\:/Users/Kate/AndroidStudioProjects/PartyApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/Kate/AndroidStudioProjects/PartyApp/app/src/main/res/layout/login_page.xml" value="0.33" />
         <entry key="..\:/Users/vtodu/AndroidStudioProjects/PartyApp/app/src/main/res/drawable/color_backgroung.xml" value="0.590625" />
+        <entry key="..\:/Users/vtodu/AndroidStudioProjects/PartyApp/app/src/main/res/drawable/rounded_edges_sign_up.xml" value="0.590625" />
+        <entry key="..\:/Users/vtodu/AndroidStudioProjects/PartyApp/app/src/main/res/drawable/roundview.xml" value="0.590625" />
+        <entry key="..\:/Users/vtodu/AndroidStudioProjects/PartyApp/app/src/main/res/drawable/text_wout_underbar.xml" value="0.590625" />
         <entry key="..\:/Users/vtodu/AndroidStudioProjects/PartyApp/app/src/main/res/layout/forgot_password.xml" value="0.48641304347826086" />
+        <entry key="..\:/Users/vtodu/AndroidStudioProjects/PartyApp/app/src/main/res/layout/main_loading.xml" value="0.490036231884058" />
+        <entry key="..\:/Users/vtodu/AndroidStudioProjects/PartyApp/app/src/main/res/layout/party_list_page.xml" value="0.490036231884058" />
+        <entry key="..\:/Users/vtodu/AndroidStudioProjects/PartyApp/app/src/main/res/layout/signup.xml" value="0.33" />
       </map>
     </option>
   </component>
